@@ -8,6 +8,10 @@ body {
     border: 7px solid black;
 }
 
+span {
+    color: gray;
+}
+
 a {
     color: black;
     text-decoration-line: none;
