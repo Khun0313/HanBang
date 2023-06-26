@@ -76,3 +76,9 @@ a {
     margin: 10px;
     padding: 30px;
 }
+
+@media(max-width:730px) {
+    #grid {
+        display: block;
+    }
+}
